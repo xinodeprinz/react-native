@@ -11,11 +11,15 @@ This screen shows all the blog posts from the database.
 ![Blogs Screen](./client/assets/blogs.png)
 
 ##### 2. Create Screen
+
 This screen is used to create a blog post. The create form takes as inputs: the title, description and the image.
+
 ![Create Screen](./client/assets/create-blog.png)
 
 ##### 3. Update Screen
+
 This screen is used to update a blog post.
+
 ![Update Screen](./client/assets/update-blog.png)
 
  - To create a blog post, click on the `plus icon` on the `blogs screen` header.
