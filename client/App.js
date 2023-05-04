@@ -1,6 +1,5 @@
 import 'react-native-gesture-handler';
 import Index from './src/screens/index';
-import { BlogProvider } from './src/context/BlogContext';
 import { createStackNavigator } from '@react-navigation/stack';
 import { NavigationContainer } from '@react-navigation/native';
 import Create from './src/screens/create';
@@ -31,10 +30,4 @@ function MyStack() {
     );
 }
 
-export default () => {
-    return (
-        <BlogProvider>
-            <MyStack />
-        </BlogProvider>
-    );
-}
+export default MyStack;
