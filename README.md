@@ -5,7 +5,9 @@ This is a mini blogging mobile application built with React Native, Express and 
 [Click here to download the database file.](./blog.sql)
 
 ##### 1. Blogs Screen
+
 This screen shows all the blog posts from the database.
+
 ![Blogs Screen](./client/assets/blogs.png)
 
 ##### 2. Create Screen
